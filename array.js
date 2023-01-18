@@ -21,7 +21,7 @@ const people = [{
         state: "goias",
     }
 },
-    {
+{
     name: "maikateus",
     age: 20,
     sex: 'male',
@@ -32,7 +32,7 @@ const people = [{
         state: "goias",
     }
 },
-        {
+{
     name: "maikateus",
     age: 20,
     sex: 'male',

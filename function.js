@@ -49,10 +49,7 @@
 // - arrow function
 // e uma função resumida que dar return automatico 
 // se o codigo for grande posso adicionar chaves {} mas perco o poder do return automatico
- const calc1 =(number1, number2) =>{number1 + number2 
-return number1 + number2
- }
- 
+const calc1 =(number1, number2) => number1 + number2 
  const firstNumber = 10 
  const secondNumber = 20 
 
